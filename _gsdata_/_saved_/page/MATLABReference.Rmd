@@ -4,10 +4,3 @@ author: "Pooya Shirazi"
 date: "October 10, 2018"
 output: html_document
 ---
-
-Here is the full list of best reference books on Programming Using Matlab:
-
-[Best Reference Books – Programming Using Matlab](https://shirazipooya.github.io/MATLABReference/)
-
-
-

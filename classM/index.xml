@@ -1,24 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ClassMs on Pooya Shirazi</title>
-    <link>/classm/</link>
-    <description>Recent content in ClassMs on Pooya Shirazi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="/classm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Computer Programming - How to Install MATLAB R2018b on Windows 10</title>
-      <link>/classm/compro_installmatlab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/classm/compro_installmatlab/</guid>
-      <description>How to Install MATLAB R2018b?Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
-Download Tutorial Download MATLAB R2018b</description>
-    </item>
-    
-  </channel>
-</rss>
