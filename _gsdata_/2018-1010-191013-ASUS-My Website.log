@@ -1,0 +1,8 @@
+2018-10-10 19:10:14: -- Analysis Started by On File Change Incremental
+2018-10-10 19:10:14: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 115
+2018-10-10 19:10:14: Left to Right: Copy File: 2 
+2018-10-10 19:10:14: == Sync Started by On File Change Incremental
+2018-10-10 19:10:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabref'
+2018-10-10 19:10:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabref/index.html' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabref/index.html' (3,114)
+2018-10-10 19:10:14: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 2, Errors: 0
+2018-10-10 19:10:14: 

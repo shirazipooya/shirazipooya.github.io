@@ -1,0 +1,48 @@
+2018-10-10 19:09:14: -- Analysis Started by On File Change Incremental
+2018-10-10 19:09:14: Changes: 42, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 115
+2018-10-10 19:09:14: Left to Right: Copy File: 42 
+2018-10-10 19:09:14: == Sync Started by On File Change Incremental
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/categories'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/css'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/js'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/post'
+2018-10-10 19:09:14: Create Folder 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/tags'
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/books/book_01.pdf' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books/book_01.pdf' (4,261,887)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/books/book_02.pdf' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books/book_02.pdf' (7,118,105)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/books/book_03.pdf' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books/book_03.pdf' (6,322,688)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/books/book_04.pdf' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books/book_04.pdf' (18,853,672)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/books/book_05.pdf' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/books/book_05.pdf' (10,522,148)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/categories/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/categories/index.xml' (548)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/css/component.css' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/css/component.css' (3,548)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/css/default.css' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/css/default.css' (1,214)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/1.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/1.png' (11,582)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/2.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/2.png' (11,363)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/3.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/3.png' (11,523)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/4.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/4.png' (11,479)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/5.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/5.png' (11,543)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/Book_01.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/Book_01.png' (305,529)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/Book_02.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/Book_02.png' (707,794)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/Book_03.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/Book_03.png' (841,014)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/Book_04.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/Book_04.png' (809,958)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/full/Book_05.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/full/Book_05.png' (766,874)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/1.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/1.png' (6,104)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/2.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/2.png' (5,912)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/3.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/3.png' (6,082)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/4.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/4.png' (5,999)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/5.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/5.png' (6,132)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/Book_01.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/Book_01.png' (54,963)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/Book_02.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/Book_02.png' (90,284)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/Book_03.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/Book_03.png' (91,265)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/Book_04.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/Book_04.png' (103,148)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/images/thumbs/Book_05.png' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/images/thumbs/Book_05.png' (101,566)
+2018-10-10 19:09:14: Copy Over 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/index.html' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/index.html' (17,746)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/index.xml' (498)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/js/modernizr.custom.js' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/js/modernizr.custom.js' (8,281)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/sitemap.xml' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/sitemap.xml' (383)
+2018-10-10 19:09:14: Copy New 'C:/Users/Pooya/Documents/GitHub/createMyWebsite/public/page/matlabreference/tags/index.xml' -> 'C:/Users/Pooya/Documents/GitHub/shirazipooya.github.io/page/matlabreference/tags/index.xml' (524)
+2018-10-10 19:09:14: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 42, Errors: 0
+2018-10-10 19:09:14: 
