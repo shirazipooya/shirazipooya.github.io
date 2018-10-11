@@ -1,45 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pooya Shirazi</title>
-    <link>/</link>
-    <description>Recent content on Pooya Shirazi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Best Reference Books – Programming Using Matlab</title>
-      <link>/page/matlabreference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/matlabreference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Install MATLAB R2018b on Windows 10?</title>
-      <link>/page/installmatlab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/installmatlab/</guid>
-      <description>Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
-Download TutorialDownload MATLAB R2018b</description>
-    </item>
-    
-    <item>
-      <title>Session 01</title>
-      <link>/post/session_01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/session_01/</guid>
-      <description>ReferenceWATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
-Sample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-Session 01 PresentationThis is the Power Point of the first session.
-</description>
-    </item>
-    
-  </channel>
-</rss>
