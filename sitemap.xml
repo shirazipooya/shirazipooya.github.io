@@ -16,6 +16,10 @@
   </url>
   
   <url>
+    <loc>/page/assignment_week_02/</loc>
+  </url>
+  
+  <url>
     <loc>/page/</loc>
     <priority>0</priority>
   </url>
