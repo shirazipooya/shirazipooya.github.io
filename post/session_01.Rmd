@@ -14,6 +14,16 @@ A guide to effective water measurement practices for better water management.
 
 To write an appropirate report, we are suggesting to use the [**Sample Report**](file/Sample_Expriment_Report.docx) file. Each team should submit their report in "PDF" or "Word Document".
 
+### How Your Report Score Is Calculated?
+
+Your final score for a report is the sum of the scores for all of the report parts:
+
+<center>
+
+![Report Score](file/reportEvaluation.png)
+
+</center>
+
 ### Session 01 Presentation
 
 This is the [**Power Point**](file/session_01.pdf) of the first session.

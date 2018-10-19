@@ -19,9 +19,9 @@ To write an appropirate report, we are suggesting to use the [**Sample Report**]
 Your final score for a report is the sum of the scores for all of the report parts:
 
 <center>
-###[Download MATLAB Assignment - Session 02](file/Assignment_Session_02.pdf)
 
 ![Report Score](file/reportEvaluation.png)
+
 </center>
 
 ### Session 02 Presentation
