@@ -1,0 +1,14 @@
+---
+title: "MATLAB Assignment - Session 04"
+author: "Pooya Shirazi"
+date: 2018-11-03T00:00:00-08:00
+output: html_document
+---
+
+This page contains your homework assignments. Please first download **"Download MATLAB Assignment - Session 04"**, then based on the number of your group complete your assignments.
+
+<center>
+###[Download MATLAB Assignment - Session 04](file/Assignment_Session_04.pdf)
+
+![Assignment Grouping](file/Assignment_Session_04.png)
+</center>
