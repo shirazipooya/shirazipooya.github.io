@@ -1,0 +1,14 @@
+---
+title: "How to Install MATLAB R2018b on Windows 10?"
+author: "Pooya Shirazi"
+date: 2018-10-06T00:00:00-08:00
+output: html_document
+---
+
+Follow step-by-step demonstration "How to install MATLAB R2018b on windows 10".
+
+<center>
+###[Download Tutorial](file/installMATLAB.pdf)
+###[Download MATLAB R2018b](ftp://ftp.um.ac.ir/Technical_Softwares/Math_&_Statistics_Tools/Matlab/Mathworks_Matlab_R2018/MathWorks_MATLAB_R2018b_v9.5.0.944444_x64/)
+</center>
+
