@@ -1,74 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programmings on Pooya Shirazi</title>
-    <link>/programming/</link>
-    <description>Recent content in Programmings on Pooya Shirazi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>MATLAB Assignment - Session 04</title>
-      <link>/programming/assignment_week_04/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_week_04/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Session 04”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Session 04</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Session 03</title>
-      <link>/programming/assignment_week_03/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_week_03/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Session 03”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Session 03</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 02 &amp; 03</title>
-      <link>/programming/session_02_03/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_02_03/</guid>
-      <description>Session 02 &amp;amp; 03 PresentationThis is the Power Point of the second and third session.
-</description>
-    </item>
-    
-    <item>
-      <title>Best Reference Books – Programming Using Matlab</title>
-      <link>/programming/matlabreference/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/matlabreference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Install MATLAB R2018b on Windows 10?</title>
-      <link>/programming/installmatlab/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/installmatlab/</guid>
-      <description>Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
-Download TutorialDownload MATLAB R2018b</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 01</title>
-      <link>/programming/session_01/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_01/</guid>
-      <description>Session 01 PresentationThis is the Power Point of the first session.
-</description>
-    </item>
-    
-  </channel>
-</rss>
