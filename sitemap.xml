@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/programming/erfan_karimian_pdf/</loc>
+    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/irrigation/session_07/</loc>
+    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/irrigation/session_06/</loc>
     <lastmod>2018-11-23T00:00:00-08:00</lastmod>
   </url>
@@ -84,19 +94,19 @@
   
   <url>
     <loc>/irrigation/</loc>
-    <lastmod>2018-11-23T00:00:00-08:00</lastmod>
+    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-11-23T00:00:00-08:00</lastmod>
+    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/programming/</loc>
-    <lastmod>2018-11-16T00:00:00-08:00</lastmod>
+    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   

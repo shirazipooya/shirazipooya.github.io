@@ -6,10 +6,28 @@
     <description>Recent content in Programmings on Pooya Shirazi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MATLAB Tutorial (Persian)</title>
+      <link>/programming/erfan_karimian_pdf/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/programming/erfan_karimian_pdf/</guid>
+      <description>This PDF files is prepared by Erfan Karimian from Najafabad branch of Islamic Azad University.
+Chapter 01 - Starting with MATLAB.
+Chapter 02 - Creating Arrays.
+Chapter 03 - Mathematical Operations with Arrays.
+Chapter 04 - Using Script Files and Managing Data.
+Chapter 05 - Two-Dimensional Plots.
+Chapter 06 - Programming in MATLAB.
+Chapter 07 - User-Defined Functions and Function Files.
+Chapter 08 - Polynomials, Curve Fitting, and Interpolation.
+Chapter 09 - Applications in Numerical Analysis.</description>
+    </item>
     
     <item>
       <title>MATLAB Assignment - Session 06</title>
