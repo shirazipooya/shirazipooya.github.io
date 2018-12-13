@@ -1,0 +1,36 @@
+---
+title: "Session 08"
+author: "Pooya Shirazi"
+date: 2018-12-13T00:00:00-08:00
+output: html_document
+---
+
+### Reference
+
+<center>
+
+![](file/SoilPic01.jpg)
+![](file/SoilPic02.jpg)
+![](file/SoilPic03.jpg)
+![](file/SoilPic04.jpg)
+![](file/SoilPic05.jpg)
+
+</center>
+
+### Sample Report
+
+To write an appropirate report, we are suggesting to use the [**Sample Report**](file/Sample_Expriment_Report.docx) file. Each team should submit their report in "PDF" or "Word Document".
+
+### How Your Report Score Is Calculated?
+
+Your final score for a report is the sum of the scores for all of the report parts:
+
+<center>
+
+![Report Score](file/reportEvaluation.png)
+
+</center>
+
+### Session 08 Presentation
+
+This is the [**Power Point**](https://1drv.ms/b/s!ApgwYQ9WVT1phuZZ6sORjqauklyqEA) of the eighth session.
