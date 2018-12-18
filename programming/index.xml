@@ -6,10 +6,71 @@
     <description>Recent content in Programmings on Pooya Shirazi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0830</lastBuildDate>
     
 	<atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MATLAB Sample Questions</title>
+      <link>/programming/sample_question/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0830</pubDate>
+      
+      <guid>/programming/sample_question/</guid>
+      <description>MATLAB Sample Questions 01.
+MATLAB Sample Questions 02.
+MATLAB Sample Questions 03.</description>
+    </item>
+    
+    <item>
+      <title>MATLAB Control Flow Structures m-Files</title>
+      <link>/programming/matlab_flow_control/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0820</pubDate>
+      
+      <guid>/programming/matlab_flow_control/</guid>
+      <description>MATLAB Control Flow Structures m-Files Sample 01.
+MATLAB Control Flow Structures m-Files Sample 02.</description>
+    </item>
+    
+    <item>
+      <title>MATLAB Assignment - Chapter 07</title>
+      <link>/programming/assignment_chapter_07/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0815</pubDate>
+      
+      <guid>/programming/assignment_chapter_07/</guid>
+      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 07”, then based on the number of your group complete your assignments.
+Download MATLAB Assignment - Chapter 07</description>
+    </item>
+    
+    <item>
+      <title>MATLAB Assignment - Chapter 06</title>
+      <link>/programming/assignment_chapter_06/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0810</pubDate>
+      
+      <guid>/programming/assignment_chapter_06/</guid>
+      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 06”, then based on the number of your group complete your assignments.
+Download MATLAB Assignment - Chapter 06</description>
+    </item>
+    
+    <item>
+      <title>MATLAB Assignment - Chapter 05</title>
+      <link>/programming/assignment_chapter_05/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0805</pubDate>
+      
+      <guid>/programming/assignment_chapter_05/</guid>
+      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 05”, then based on the number of your group complete your assignments.
+Download MATLAB Assignment - Chapter 05</description>
+    </item>
+    
+    <item>
+      <title>MATLAB Assignment - Chapter 04</title>
+      <link>/programming/assignment_chapter_04/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/programming/assignment_chapter_04/</guid>
+      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 04”, then based on the number of your group complete your assignments.
+Download MATLAB Assignment - Chapter 04</description>
+    </item>
     
     <item>
       <title>MATLAB Tutorial (Persian)</title>

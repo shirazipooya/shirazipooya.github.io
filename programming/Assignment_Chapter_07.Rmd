@@ -1,0 +1,15 @@
+---
+title: "MATLAB Assignment - Chapter 07"
+author: "Pooya Shirazi"
+date: 2018-12-18T00:00:00-08:15
+output: html_document
+---
+
+This page contains your homework assignments. Please first download **"Download MATLAB Assignment - Chapter 07"**, then based on the number of your group complete your assignments.
+
+<center>
+###[Download MATLAB Assignment - Chapter 07](file/Assignment_Chapter_07.pdf)
+
+![Assignment Grouping](file/Assignment_Chapter_07.png)
+![Assignment Grouping](file/Assignment_Chapter_07_G.png)
+</center>

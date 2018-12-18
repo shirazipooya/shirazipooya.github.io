@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/programming/sample_question/</loc>
+    <lastmod>2018-12-19T00:00:00-08:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programming/matlab_flow_control/</loc>
+    <lastmod>2018-12-19T00:00:00-08:20</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programming/assignment_chapter_07/</loc>
+    <lastmod>2018-12-18T00:00:00-08:15</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programming/assignment_chapter_06/</loc>
+    <lastmod>2018-12-18T00:00:00-08:10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programming/assignment_chapter_05/</loc>
+    <lastmod>2018-12-18T00:00:00-08:05</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programming/assignment_chapter_04/</loc>
+    <lastmod>2018-12-18T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/irrigation/session_08/</loc>
     <lastmod>2018-12-13T00:00:00-08:00</lastmod>
   </url>
@@ -105,13 +135,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-13T00:00:00-08:00</lastmod>
+    <lastmod>2018-12-19T00:00:00-08:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/programming/</loc>
-    <lastmod>2018-12-05T00:00:00-08:00</lastmod>
+    <lastmod>2018-12-19T00:00:00-08:30</lastmod>
     <priority>0</priority>
   </url>
   
