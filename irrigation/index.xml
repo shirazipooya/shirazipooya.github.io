@@ -6,10 +6,20 @@
     <description>Recent content in Irrigations on Pooya Shirazi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Dec 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/irrigation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CROPWAT Project</title>
+      <link>/irrigation/project/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/irrigation/project/</guid>
+      <description>01. CropWatCROPWAT is a decision support tool developed by the Land and Water Development Division of FAO.
+CROPWAT 8.0 for Windows is a computer program for the calculation of crop water requirements and irrigation requirements based on soil, climate and crop data. In addition, the program allows the development of irrigation schedules for different management conditions and the calculation of scheme water supply for varying crop patterns. CROPWAT 8.0 can also be used to evaluate farmers’ irrigation practices and to estimate crop performance under both rainfed and irrigated conditions.</description>
+    </item>
     
     <item>
       <title>Session 09</title>
