@@ -1,193 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programmings on Pooya Shirazi</title>
-    <link>/programming/</link>
-    <description>Recent content in Programmings on Pooya Shirazi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 25 Dec 2018 00:00:00 -0830</lastBuildDate>
-    
-	<atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>MATLAB Final Project</title>
-      <link>/programming/final_project/</link>
-      <pubDate>Tue, 25 Dec 2018 00:00:00 -0830</pubDate>
-      
-      <guid>/programming/final_project/</guid>
-      <description>Download MATLAB Final Project.
-</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Sample Questions</title>
-      <link>/programming/sample_question/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0830</pubDate>
-      
-      <guid>/programming/sample_question/</guid>
-      <description>MATLAB Sample Questions 01.
-MATLAB Sample Questions 02.
-MATLAB Sample Questions 03.</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Control Flow Structures m-Files</title>
-      <link>/programming/matlab_flow_control/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0820</pubDate>
-      
-      <guid>/programming/matlab_flow_control/</guid>
-      <description>MATLAB Control Flow Structures m-Files Sample 01.
-MATLAB Control Flow Structures m-Files Sample 02.</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Chapter 07</title>
-      <link>/programming/assignment_chapter_07/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 -0815</pubDate>
-      
-      <guid>/programming/assignment_chapter_07/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 07”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 07</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Chapter 06</title>
-      <link>/programming/assignment_chapter_06/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 -0810</pubDate>
-      
-      <guid>/programming/assignment_chapter_06/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 06”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 06</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Chapter 05</title>
-      <link>/programming/assignment_chapter_05/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 -0805</pubDate>
-      
-      <guid>/programming/assignment_chapter_05/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 05”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 05</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Chapter 04</title>
-      <link>/programming/assignment_chapter_04/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_chapter_04/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 04”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 04</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Tutorial (Persian)</title>
-      <link>/programming/erfan_karimian_pdf/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/erfan_karimian_pdf/</guid>
-      <description>This PDF files is prepared by Erfan Karimian from Najafabad branch of Islamic Azad University.
-Chapter 01 - Starting with MATLAB.
-Chapter 02 - Creating Arrays.
-Chapter 03 - Mathematical Operations with Arrays.
-Chapter 04 - Using Script Files and Managing Data.
-Chapter 05 - Two-Dimensional Plots.
-Chapter 06 - Programming in MATLAB.
-Chapter 07 - User-Defined Functions and Function Files.
-Chapter 08 - Polynomials, Curve Fitting, and Interpolation.
-Chapter 09 - Applications in Numerical Analysis.</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Session 06</title>
-      <link>/programming/assignment_week_06/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_week_06/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Session 06”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Session 06</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 06</title>
-      <link>/programming/session_06/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_06/</guid>
-      <description>Session 06 PresentationThis is the Power Point of the sixth session.
-</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 04 and 05</title>
-      <link>/programming/session_04_05/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_04_05/</guid>
-      <description>Session 04 and 05 PresentationThis is the Power Point of the fourth and fifth session.
-</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Session 04 and 05</title>
-      <link>/programming/assignment_week_04_05/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_week_04_05/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Session 04 and 05”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Session 04 and 05</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Assignment - Session 02 and 03</title>
-      <link>/programming/assignment_week_02_03/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/assignment_week_02_03/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Session 02 and 03”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Session 02 and 03</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 02 and 03</title>
-      <link>/programming/session_02_03/</link>
-      <pubDate>Tue, 23 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_02_03/</guid>
-      <description>Session 02 and 03 PresentationThis is the Power Point of the second and third session.
-</description>
-    </item>
-    
-    <item>
-      <title>Best Reference Books – Programming Using Matlab</title>
-      <link>/programming/matlabreference/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/matlabreference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Install MATLAB R2018b on Windows 10?</title>
-      <link>/programming/installmatlab/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/installmatlab/</guid>
-      <description>Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
-Download TutorialDownload MATLAB R2018b</description>
-    </item>
-    
-    <item>
-      <title>MATLAB Power Point - Session 01</title>
-      <link>/programming/session_01/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/programming/session_01/</guid>
-      <description>Session 01 PresentationThis is the Power Point of the first session.
-</description>
-    </item>
-    
-  </channel>
-</rss>
