@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pooya Shirazi</title>
+<channel>
+<title>Pooya Shirazi</title>
     <link>/</link>
     <description>Recent content on Pooya Shirazi</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,11 +14,9 @@
     <item>
       <title>CROPWAT Tutorial</title>
       <link>/irrigation/tutorial_project/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 -0800</pubDate>
-      
+      <pubDate>Sat, 29 Dec 2018 00:00:00 -0800</pubDate>      
       <guid>/irrigation/tutorial_project/</guid>
-      <description>Download CROPWAT Tutorial
-</description>
+      <description>Download CROPWAT Tutorial</description>
     </item>
     
     <item>
@@ -27,8 +25,9 @@
       <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/project/</guid>
-      <description>01. CropWatCROPWAT is a decision support tool developed by the Land and Water Development Division of FAO.
-CROPWAT 8.0 for Windows is a computer program for the calculation of crop water requirements and irrigation requirements based on soil, climate and crop data. In addition, the program allows the development of irrigation schedules for different management conditions and the calculation of scheme water supply for varying crop patterns. CROPWAT 8.</description>
+      <description>01. CropWat
+      CROPWAT is a decision support tool developed by the Land and Water Development Division of FAO.
+      CROPWAT 8.0 for Windows is a computer program for the calculation of crop water requirements and irrigation requirements based on soil, climate and crop data. In addition, the program allows the development of irrigation schedules for different management conditions and the calculation of scheme water supply for varying crop patterns. CROPWAT 8.</description>
     </item>
     
     <item>
@@ -37,8 +36,11 @@ CROPWAT 8.0 for Windows is a computer program for the calculation of crop water 
       <pubDate>Tue, 25 Dec 2018 00:00:00 -0830</pubDate>
       
       <guid>/programming/final_project/</guid>
-      <description>Download MATLAB Final Project.
-</description>
+      <description>
+
+Download MATLAB Final Project.
+
+</description>
     </item>
     
     <item>
@@ -47,10 +49,22 @@ CROPWAT 8.0 for Windows is a computer program for the calculation of crop water 
       <pubDate>Tue, 25 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_09/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 09 PresentationThis is the Power Point of the ninth session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 09 Presentation
+This is the Power Point of the ninth session.</description>
     </item>
     
     <item>
@@ -80,8 +94,13 @@ MATLAB Control Flow Structures m-Files Sample 02.</description>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0815</pubDate>
       
       <guid>/programming/assignment_chapter_07/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 07”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 07</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 07”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 07
+
+
+</description>
     </item>
     
     <item>
@@ -90,8 +109,13 @@ MATLAB Control Flow Structures m-Files Sample 02.</description>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0810</pubDate>
       
       <guid>/programming/assignment_chapter_06/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 06”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 06</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 06”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 06
+
+
+</description>
     </item>
     
     <item>
@@ -100,8 +124,13 @@ MATLAB Control Flow Structures m-Files Sample 02.</description>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0805</pubDate>
       
       <guid>/programming/assignment_chapter_05/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 05”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 05</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 05”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 05
+
+
+</description>
     </item>
     
     <item>
@@ -110,8 +139,13 @@ MATLAB Control Flow Structures m-Files Sample 02.</description>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/programming/assignment_chapter_04/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 04”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 04</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 04”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 04
+
+
+</description>
     </item>
     
     <item>
@@ -120,10 +154,22 @@ MATLAB Control Flow Structures m-Files Sample 02.</description>
       <pubDate>Thu, 13 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_08/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 08 PresentationThis is the Power Point of the eighth session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 08 Presentation
+This is the Power Point of the eighth session.</description>
     </item>
     
     <item>
@@ -149,10 +195,22 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_07/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 07 PresentationThis is the Power Point of the seventh session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 07 Presentation
+This is the Power Point of the seventh session.</description>
     </item>
     
     <item>
@@ -161,10 +219,22 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Fri, 23 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_06/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 06 PresentationThis is the Power Point of the sixth session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 06 Presentation
+This is the Power Point of the sixth session.</description>
     </item>
     
     <item>
@@ -173,8 +243,13 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>/programming/assignment_chapter_03/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 03”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 03</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 03”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 03
+
+
+</description>
     </item>
     
     <item>
@@ -183,10 +258,22 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sun, 04 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_05/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 05 PresentationThis is the Power Point of the fifth session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 05 Presentation
+This is the Power Point of the fifth session.</description>
     </item>
     
     <item>
@@ -195,8 +282,13 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 03 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>/programming/assignment_chapter_02/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 02”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 02</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 02”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 02
+
+
+</description>
     </item>
     
     <item>
@@ -205,10 +297,22 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 27 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_04/</guid>
-      <description>ReferenceSample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score
-Session 04 PresentationThis is the Power Point of the fourth session.</description>
+      <description>Reference
+
+
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score
+
+
+
+Session 04 Presentation
+This is the Power Point of the fourth session.</description>
     </item>
     
     <item>
@@ -217,8 +321,13 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Tue, 23 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/programming/assignment_chapter_01/</guid>
-      <description>This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 01”, then based on the number of your group complete your assignments.
-Download MATLAB Assignment - Chapter 01</description>
+      <description>
+This page contains your homework assignments. Please first download “Download MATLAB Assignment - Chapter 01”, then based on the number of your group complete your assignments.
+
+Download MATLAB Assignment - Chapter 01
+
+
+</description>
     </item>
     
     <item>
@@ -227,10 +336,16 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 20 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_03/</guid>
-      <description>ReferenceWATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
-Sample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score</description>
+      <description>Reference
+WATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score</description>
     </item>
     
     <item>
@@ -239,10 +354,16 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 13 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_02/</guid>
-      <description>ReferenceWATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
-Sample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score</description>
+      <description>Reference
+WATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score</description>
     </item>
     
     <item>
@@ -260,8 +381,15 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/programming/installmatlab/</guid>
-      <description>Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
-Download TutorialDownload MATLAB R2018b</description>
+      <description>
+Follow step-by-step demonstration “How to install MATLAB R2018b on windows 10”.
+
+Download Tutorial
+
+Download MATLAB R2018b
+
+
+</description>
     </item>
     
     <item>
@@ -270,10 +398,16 @@ Chapter 08 - Polynomials, Curve Fitting, and Interpolation.</description>
       <pubDate>Sat, 06 Oct 2018 00:00:00 -0800</pubDate>
       
       <guid>/irrigation/session_01/</guid>
-      <description>ReferenceWATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
-Sample ReportTo write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
-How Your Report Score Is Calculated?Your final score for a report is the sum of the scores for all of the report parts:
-Report Score</description>
+      <description>Reference
+WATER MEASUREMENT MANUAL: A guide to effective water measurement practices for better water management.
+
+Sample Report
+To write an appropirate report, we are suggesting to use the Sample Report file. Each team should submit their report in “PDF” or “Word Document”.
+
+How Your Report Score Is Calculated?
+Your final score for a report is the sum of the scores for all of the report parts:
+
+Report Score</description>
     </item>
     
   </channel>
