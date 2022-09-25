@@ -1481,3 +1481,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.text-justify {
+  text-align: justify;
+}
